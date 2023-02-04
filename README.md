@@ -9,6 +9,10 @@ Team name: Elite entity
 [Rishabh Singh](https://github.com/rishabhsingh9861) -
 RtSingh_b21@ci.vjti.ac.in
 
+[Rohit Karwatkar](https://github.com/rohitkarwatkar001)
+rohitkarwatkar001@gmail.com
+
+
 ## Mentors
 
 [Aishwariya Jhadhav](https://github.com/Aish1703)
